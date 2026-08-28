@@ -1,36 +1,27 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                    JERIN NOBLE • GITHUB PROFILE                         -->
-
-<!--                    PREMIUM 3D / ANIMATED EDITION                       -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=JERIN&fontSize=76&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=B.Tech%20IT%20%7C%20Java%20%7C%20DSA%20%7C%20Full-Stack%20%7C%20AI&descAlignY=62&descSize=18&color=0:020617,25:172554,50:312e81,75:6d28d9,100:be185d" width="100%" alt="Jerin"/>
+# ◆ J E R I N
+
+### `ENGINEERING • TECHNOLOGY • INNOVATION`
+
+**B.Tech Information Technology Student**
+**Java · Data Structures & Algorithms · Full-Stack Development · AI**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+SOLVE+%E2%80%A2+GROW;JAVA+%7C+DSA+%7C+FULL-STACK+%7C+AI;TURNING+IDEAS+INTO+PRACTICAL+PROJECTS;BUILDING+TODAY.+IMPROVING+EVERY+DAY." alt="Jerin animation"/>
-
-<br><br>
-
+<a href="https://github.com/JERIN-NOBLE">
+<img src="https://img.shields.io/badge/GITHUB-JERIN--NOBLE-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jerin-noble-alaiyus-3555a337/">
+<img src="https://img.shields.io/badge/LINKEDIN-JERIN%20NOBLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:jerinnoble0223@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jerin-noble-alaiyus-3555a3370/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/JerinNoble0223">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/CONTACT-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=JerinNoble0223&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+### `LEARN  →  SOLVE  →  BUILD  →  GROW`
 
 </div>
 
@@ -38,52 +29,54 @@
 
 <div align="center">
 
-# ✦ `WHO AM I?`
-
-### **A STUDENT • A BUILDER • A PROBLEM SOLVER**
+# ◈ ENGINEERING IDENTITY
 
 </div>
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td align="center" width="25%">
 
-I'm **Jerin**, a B.Tech Information Technology student at **Easwari Engineering College**.
+## ☕
 
-I'm focused on building strong foundations in:
+### JAVA
 
-**Java • Data Structures & Algorithms • Full-Stack Development • Artificial Intelligence**
-
-I enjoy turning ideas into practical projects, solving programming problems, participating in technical challenges, and continuously improving my development skills.
+**Core Programming**
+OOP · Logic · Backend
 
 </td>
 
-<td width="40%" valign="top">
+<td align="center" width="25%">
 
-<div align="center">
+## 🧩
 
-### 🎯 MISSION
+### DSA
 
-<br>
+**Problem Solving**
+Algorithms · Structures
 
-**STRONG**
+</td>
 
-`FUNDAMENTALS`
+<td align="center" width="25%">
 
-⬇️
+## 🌐
 
-**PRACTICAL**
+### FULL-STACK
 
-`DEVELOPMENT`
+**Product Development**
+Frontend · Backend · DB
 
-⬇️
+</td>
 
-**INTELLIGENT**
+<td align="center" width="25%">
 
-`SOLUTIONS`
+## ◉
 
-</div>
+### AI
+
+**Intelligent Systems**
+AI · GenAI · Agents
 
 </td>
 
@@ -94,143 +87,145 @@ I enjoy turning ideas into practical projects, solving programming problems, par
 
 <div align="center">
 
-# ⚡ MY DEVELOPMENT JOURNEY
+# ✦ WHO IS JERIN?
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=FROM+FUNDAMENTALS+TO+REAL-WORLD+SOLUTIONS;FROM+CODE+TO+PROBLEM+SOLVING;FROM+LEARNING+TO+BUILDING" alt="Journey animation"/>
+### **A STUDENT. A BUILDER. A PROBLEM SOLVER.**
 
 </div>
+
+I'm **Jerin**, a B.Tech Information Technology student at **Easwari Engineering College, Chennai**.
+
+I'm focused on developing the fundamentals required to become a strong software engineer:
+
+**Java → DSA → Software Development → Artificial Intelligence**
+
+I believe engineering is not just about learning technologies.
+
+It is about:
+
+> **Understanding the problem → designing the solution → building the system → improving the result.**
+
+My goal is to continuously transform knowledge into **practical, useful, and meaningful software**.
+
+---
+
+<div align="center">
+
+# ◈ THE ENGINEERING CORE
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-## 🧠 WHAT I'M BUILDING
+### 01
 
-☕ **Java Fundamentals**
+## THINK
 
-🧩 **Data Structures & Algorithms**
-
-🧠 **Problem Solving**
-
-🌐 **Full-Stack Development**
-
-🤖 **AI & Generative AI**
-
-🚀 **Real-World Projects**
+Understand the problem.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-## 🌱 WHAT I'M DEVELOPING
+### 02
 
-💬 **Communication**
+## SOLVE
 
-🤝 **Teamwork**
+Design the logic.
 
-🎤 **Presentation Skills**
+</td>
 
-📊 **Analytical Thinking**
+<td align="center">
 
-👑 **Leadership**
+### 03
 
-📋 **Management**
+## BUILD
+
+Turn ideas into software.
+
+</td>
+
+<td align="center">
+
+### 04
+
+## IMPROVE
+
+Iterate relentlessly.
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
+
+# ⚡ TECHNOLOGY STACK
 
 <div align="center">
 
-# 🛠️ TECHNOLOGY UNIVERSE
+### PROGRAMMING
 
-### 💻 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript" alt="Programming"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 
 <br><br>
 
-### 🌐 WEB DEVELOPMENT
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Web Development"/>
-
-<br><br>
-
-### ⚙️ BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb" alt="Backend and Database"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
 <br><br>
 
-### 🔧 DEVELOPMENT TOOLS
+### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb" />
 
 <br><br>
 
-### 🔭 CURRENTLY EXPLORING
+### DEVELOPMENT
 
-`Artificial Intelligence`
-`Generative AI`
-`AI Agents`
-`RAG`
-`Vector Search`
-`Data Analytics`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 
 </div>
 
 ---
 
-# 🧠 CORE SKILLS
+# 🧠 CORE ENGINEERING SKILLS
 
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ## 💻 TECHNICAL
 
-<br>
-
-☕ **Java**
-
-🧩 **Data Structures & Algorithms**
-
-🌐 **Full-Stack Development**
-
-🐍 **Python**
-
-⚡ **JavaScript**
-
-🤖 **AI / GenAI**
-
-🗄️ **SQL & Databases**
+* ☕ Java
+* 🧩 Data Structures & Algorithms
+* 🧠 Problem Solving
+* 🌐 Full-Stack Development
+* ⚡ JavaScript
+* 🐍 Python
+* 🤖 AI / Generative AI
+* 🗄️ SQL & Databases
+* 🔧 Git & GitHub
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ## 🤝 PROFESSIONAL
 
-<br>
-
-💬 **Communication**
-
-🤝 **Teamwork**
-
-🎤 **Presentation**
-
-🧠 **Problem Solving**
-
-📊 **Analytical Thinking**
-
-👑 **Leadership**
-
-📋 **Management**
+* 💬 Communication
+* 🤝 Team Collaboration
+* 🎤 Presentation
+* 📊 Analytical Thinking
+* 🧠 Logical Thinking
+* 👑 Leadership
+* 📋 Management
+* 🚀 Project Execution
 
 </td>
 
@@ -243,75 +238,123 @@ I enjoy turning ideas into practical projects, solving programming problems, par
 
 # 🚀 CURRENT FOCUS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=JAVA%20%E2%86%92%20DSA%20%E2%86%92%20PROBLEM%20SOLVING&fontSize=21&fontColor=ffffff&color=0:0f172a,35:1d4ed8,70:7c3aed,100:db2777&animation=fadeIn" width="90%" alt="Java DSA Problem Solving"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=FULL-STACK%20%E2%86%92%20AI%20%E2%86%92%20REAL-WORLD%20PROJECTS&fontSize=20&fontColor=ffffff&color=0:064e3b,35:0891b2,70:2563eb,100:7c3aed&animation=fadeIn" width="90%" alt="Full Stack AI Projects"/>
-
-<br><br>
-
-> **Strong fundamentals + DSA + development + AI**
+### BUILDING THE FOUNDATION FOR A STRONG SOFTWARE ENGINEERING CAREER
 
 </div>
 
----
-
-# 🔭 FEATURED PROJECTS
-
 <table>
 <tr>
+<td width="33%" align="center">
 
-<td width="50%" valign="top">
+### ☕ JAVA
+
+Programming
+OOP
+Backend Foundations
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 DSA
+
+Data Structures
+Algorithms
+Problem Solving
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 DEVELOPMENT
+
+Full Stack
+Databases
+Real Projects
+
+</td>
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🤖 AI
+
+AI Fundamentals
+Generative AI
+Intelligent Applications
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔍 EXPLORATION
+
+RAG
+Vector Search
+AI Agents
+
+</td>
+
+<td width="33%" align="center">
+
+### 📈 GROWTH
+
+Communication
+Leadership
+Teamwork
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏗️ FEATURED ENGINEERING PROJECTS
 
 <div align="center">
 
 ## 🏫 EEC COMMUNITY CONNECT
 
-### Smart Community Complaint & Resolution Management System
+### `SMART COMMUNITY COMPLAINT & RESOLUTION MANAGEMENT SYSTEM`
 
 </div>
 
-A practical system designed to manage community complaints through the complete lifecycle.
+A practical system designed to manage community complaints through a structured lifecycle — from registration and review to tracking and resolution.
 
-### ✨ FEATURES
+<table>
+<tr>
 
-* 📝 Complaint Registration
-* 🔍 Admin Review
-* 📊 Status Tracking
-* 🧠 Sentiment Analysis
-* ✅ Resolution Management
+<td width="50%" valign="top">
 
-### ⚙️ TECHNOLOGY
+### ◈ SYSTEM CAPABILITIES
 
-`Java` `OOP` `CRUD` `MySQL` `Web Development`
+📝 Complaint Registration
+🔍 Administrative Review
+📊 Status Tracking
+🧠 Sentiment Analysis
+🔎 Search & Filtering
+✅ Resolution Management
 
 </td>
 
 <td width="50%" valign="top">
 
-<div align="center">
+### ◈ ENGINEERING CONCEPTS
 
-## ☕ JAVA & DSA JOURNEY
+`Java`
 
-### Learning Through Code
+`OOP`
 
-</div>
+`CRUD`
 
-A growing collection of Java and DSA programs, assignments, implementations, and problem-solving exercises documenting my programming journey.
+`MySQL`
 
-### 🎯 FOCUS
+`Web Development`
 
-* ☕ Java
-* 🧩 Data Structures
-* ⚡ Algorithms
-* 🧠 Problem Solving
-* 📚 Assignments
-* 🚀 Continuous Practice
-
-### 💡 APPROACH
-
-**Learn → Code → Solve → Build → Improve**
+`Problem Solving`
 
 </td>
 
@@ -322,201 +365,206 @@ A growing collection of Java and DSA programs, assignments, implementations, and
 
 <div align="center">
 
-# 📚 LEARNING JOURNEY
+## ☕ JAVA & DSA JOURNEY
+
+### `LEARNING THROUGH CODE`
 
 </div>
 
-<table align="center">
-<tr>
-<th>Area</th>
-<th>Focus</th>
-</tr>
+A growing collection of Java programs, assignments, data-structure implementations, algorithms, and problem-solving exercises.
 
-<tr>
-<td>☕ <b>Java</b></td>
-<td>Programming · OOP · Problem Solving</td>
-</tr>
+### DEVELOPMENT LOOP
 
-<tr>
-<td>🧩 <b>DSA</b></td>
-<td>Data Structures · Algorithms</td>
-</tr>
+<div align="center">
 
-<tr>
-<td>🌐 <b>Web Development</b></td>
-<td>Frontend · Full-Stack Applications</td>
-</tr>
+`LEARN`
+↓
+`CODE`
+↓
+`DEBUG`
+↓
+`SOLVE`
+↓
+`BUILD`
+↓
+`IMPROVE`
 
-<tr>
-<td>🤖 <b>Artificial Intelligence</b></td>
-<td>AI · Generative AI</td>
-</tr>
+</div>
 
-<tr>
-<td>🧠 <b>AI Agents</b></td>
-<td>Intelligent Applications</td>
-</tr>
+---
 
-<tr>
-<td>🔎 <b>RAG</b></td>
-<td>Retrieval-Augmented Generation</td>
-</tr>
+# 🧭 ENGINEERING ROADMAP
 
-<tr>
-<td>🗄️ <b>Databases</b></td>
-<td>SQL · NoSQL</td>
-</tr>
+<div align="center">
 
-<tr>
-<td>📊 <b>Data Analytics</b></td>
-<td>Data · Insights · Visualization</td>
-</tr>
+```text
+                         JERIN
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     FUNDAMENTALS    │
+                │ Java • OOP • Logic  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │        DSA          │
+                │ Algorithms •        │
+                │ Problem Solving     │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     DEVELOPMENT     │
+                │ Web • Backend • DB  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │     INTELLIGENCE    │
+                │ AI • GenAI • RAG    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   REAL-WORLD APPS   │
+                │     BUILD • SHIP    │
+                └─────────────────────┘
+```
 
-</table>
+</div>
+
+---
+
+# 🔬 CURRENTLY EXPLORING
+
+<div align="center">
+
+|             DOMAIN             | EXPLORATION                    |
+| :----------------------------: | :----------------------------- |
+| 🤖 **Artificial Intelligence** | Intelligent applications       |
+|       ✨ **Generative AI**      | AI-powered experiences         |
+|        🧠 **AI Agents**        | Autonomous workflows           |
+|           🔎 **RAG**           | Retrieval-Augmented Generation |
+|      🗃️ **Vector Search**     | Semantic information retrieval |
+|      📊 **Data Analytics**     | Data → Insights                |
+|        🌐 **Full Stack**       | End-to-end applications        |
+
+</div>
 
 ---
 
 # 🏆 LEARNING & CERTIFICATIONS
 
-<table align="center">
+<table>
 <tr>
-
-<td align="center">🤖</td>
-<td><b>MongoDB</b></td>
-<td>AI Learning · RAG · Vector Search</td>
-
+<th>PLATFORM</th>
+<th>FOCUS</th>
 </tr>
-<tr>
 
-<td align="center">☁️</td>
-<td><b>AWS</b></td>
+<tr>
+<td>🤖 <b>MongoDB</b></td>
+<td>AI · RAG · Vector Search</td>
+</tr>
+
+<tr>
+<td>☁️ <b>AWS</b></td>
 <td>Prompt Engineering · Generative AI</td>
-
 </tr>
-<tr>
 
-<td align="center">📊</td>
-<td><b>Tata</b></td>
+<tr>
+<td>📊 <b>Tata</b></td>
 <td>GenAI Powered Data Analytics</td>
-
 </tr>
-<tr>
 
-<td align="center">📈</td>
-<td><b>Deloitte</b></td>
+<tr>
+<td>📈 <b>Deloitte</b></td>
 <td>Data Analytics Job Simulation</td>
-
 </tr>
-<tr>
 
-<td align="center">🐍</td>
-<td><b>NPTEL</b></td>
+<tr>
+<td>🐍 <b>NPTEL</b></td>
 <td>The Joy of Computing Using Python</td>
-
 </tr>
+
 <tr>
-
-<td align="center">🤖</td>
-<td><b>Cisco</b></td>
-<td>Introduction to Modern AI</td>
-
-</tr>
-<tr>
-
-<td align="center">💻</td>
-<td><b>Cisco</b></td>
-<td>JavaScript Essentials</td>
-
-</tr>
-<tr>
-
-<td align="center">🌐</td>
-<td><b>Cisco</b></td>
+<td>🌐 <b>Cisco</b></td>
 <td>HTML Essentials</td>
-
 </tr>
+
+<tr>
+<td>⚡ <b>Cisco</b></td>
+<td>JavaScript Essentials</td>
+</tr>
+
+<tr>
+<td>🤖 <b>Cisco</b></td>
+<td>AI Learning</td>
+</tr>
+
 </table>
 
 ---
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+# 📊 ENGINEERING ACTIVITY
+
+### `CONSISTENCY > PERFECTION`
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JerinNoble0223&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerinNoble0223&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JerinNoble0223&hide_border=true" alt="GitHub Streak"/>
+<img src="https://img.shields.io/github/followers/JERIN-NOBLE?style=for-the-badge&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/JERIN-NOBLE?style=for-the-badge&logo=github&label=STARS" />
+<img src="https://img.shields.io/badge/Repositories-6-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Contributions-23-238636?style=for-the-badge&logo=github" />
 
 </div>
 
 ---
 
-<div align="center">
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JerinNoble0223&bg_color=00000000&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Jerin%27s%20Contribution%20Journey" width="95%" alt="Contribution Activity"/>
-
-</div>
-
----
+# 🌱 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
-
-# 🎯 THE DIRECTION
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=MASTER+THE+FUNDAMENTALS;SOLVE+PROBLEMS+WITH+LOGIC;BUILD+REAL-WORLD+PROJECTS;EXPLORE+AI+%26+GENAI;CREATE+MEANINGFUL+IMPACT" alt="Direction animation"/>
-
-<br><br>
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-### 01
+### 📚
 
-## 📚 LEARN
+## LEARN
 
-Build strong foundations.
-
-</td>
-
-<td align="center" width="25%">
-
-### 02
-
-## 🧠 SOLVE
-
-Develop logical thinking.
+Build the foundation.
 
 </td>
 
 <td align="center" width="25%">
 
-### 03
+### 🧠
 
-## 🚀 BUILD
+## SOLVE
 
-Create practical projects.
+Train the mind.
 
 </td>
 
 <td align="center" width="25%">
 
-### 04
+### 🚀
 
-## 🌱 GROW
+## BUILD
+
+Create the product.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱
+
+## GROW
 
 Improve every day.
 
@@ -531,46 +579,42 @@ Improve every day.
 
 <div align="center">
 
-# 🌐 CONNECT WITH ME
+# ◆ THE JERIN STANDARD
+
+### **STRONG FUNDAMENTALS**
+
+### ↓
+
+### **SHARP PROBLEM SOLVING**
+
+### ↓
+
+### **PRACTICAL ENGINEERING**
+
+### ↓
+
+### **INTELLIGENT TECHNOLOGY**
+
+### ↓
+
+### **MEANINGFUL IMPACT**
+
+<br>
+
+---
+
+## `BUILDING TODAY. ENGINEERING TOMORROW.`
+
+### — JERIN
 
 <br>
 
 <a href="mailto:jerinnoble0223@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-JERINNOBLE0223%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/jerin-noble-alaiyus-3555a3370/">
-<img src="https://img.shields.io/badge/LINKEDIN-JERIN%20NOBLE%20ALAIYUS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/JerinNoble0223">
-<img src="https://img.shields.io/badge/GITHUB-JerinNoble0223-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://www.linkedin.com/in/jerin-noble-alaiyus-3555a337/">
+<img src="https://img.shields.io/badge/PROFESSIONAL%20PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-## 💭
-
-> **Learn consistently. Build practically. Solve intelligently. Create meaningful impact.**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Building+today+%E2%80%A2+Improving+every+day;One+problem+%E2%80%A2+One+project+%E2%80%A2+One+step+at+a+time" alt="Closing animation"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:be185d,35:7c3aed,70:312e81,100:020617" width="100%" alt="Footer"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                         END • JERIN NOBLE                               -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
